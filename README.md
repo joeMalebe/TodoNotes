@@ -1,1 +1,6 @@
-# TodoNotes
+# Todonotes
+
+## Package
+```
+./gradlew distZip
+```
